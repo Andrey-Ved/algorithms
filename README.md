@@ -13,7 +13,7 @@ Based on the course of Timofey Hiryanov
 - binary search,
 - grasshopper,
 - longest common subsequence,
-- search kmp,
+- kmp search,
 - check braces,
 - fibonacci number with caching,
 - knapsack problem,
