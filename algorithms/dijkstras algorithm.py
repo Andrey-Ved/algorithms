@@ -40,7 +40,7 @@ def random_graph(vertices_quantity: int, edges_quantity: int):
 
 
 def dijkstra(g, start_vertex):
-    """Dijkstra's algorithm with O(N**2]"""
+    """Dijkstra's algorithm with O(N**2)"""
 
     adjacencies = {}
     for v1, v2, weight in g:
