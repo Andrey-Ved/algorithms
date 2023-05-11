@@ -6,7 +6,7 @@ Data Structures and Algorithms
 
 Based on the course of Timofey Hiryanov
 
-- find gcd (finding the greatest common divisor by division),
+- find gcd (finding the greatest common divisor),
 - checking for prime,
 - recurrent sorting (merge sorting, Tony Hoare sorting),
 - invert part of list,
